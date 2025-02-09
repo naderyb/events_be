@@ -1,5 +1,5 @@
 {
-  "name": "nrivizi3.0",
+  "name": "events_be",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
@@ -7,16 +7,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naderyb/nrivizi3.0.git"
+    "url": "git+https://github.com/naderyb/events_be.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/naderyb/nrivizi3.0/issues"
+    "url": "https://github.com/naderyb/events_be/issues"
   },
-  "homepage": "https://github.com/naderyb/nrivizi3.0#readme",
+  "homepage": "https://github.com/naderyb/events_be#readme",
   "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
